@@ -8,7 +8,6 @@ timers.each(function() {
     var time = $(this).attr("data-interval");
     var obj = $(this);
     //set the visible time from data-interval
-    //$(this)[0].childNodes[1].innerHTML = time;
     $(".mt-5", this).html(time);
 
     //start the timers
