@@ -1,9 +1,5 @@
 var timers = $(".timer");
-var timerClocks;
-var timerInterval = 1;
-var i = 0;
 //get all the timers
-
 timers.each(function() {
     var time = $(this).attr("data-interval");
     var obj = $(this);
