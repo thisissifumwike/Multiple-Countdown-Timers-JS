@@ -1,3 +1,3 @@
-#Multiple-Countdown-Timer-JS
+# Multiple-Countdown-Timer-JS
 
-##Coded using Javascript and some HTML
+## Coded using Javascript and some HTML
